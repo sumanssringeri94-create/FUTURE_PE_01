@@ -153,9 +153,9 @@ The structure separates homepage copy, services, and CTAs to match real website 
 
 🛠️ Tool Used
 
-ChatGPT – for prompt-based AI content generation
-Lovable AI - for building the website
-Prompt Engineering – to design reusable, structured prompts for website copy
+-> ChatGPT – for prompt-based AI content generation
+-> Lovable AI - for building the website
+-> Prompt Engineering – to design reusable, structured prompts for website copy
 
 
 ✅ Final Notes
